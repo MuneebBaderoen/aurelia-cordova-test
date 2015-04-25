@@ -2,9 +2,9 @@
 Aurelia as at 0.12 including animate.css integreation, build process slightly modified to build into cordova app.
 
 #Getting it running
-npm install
-jspm install -y
-cd cordova
+npm install<br/>
+jspm install -y<br/>
+cd cordova <br/>
 cordova platform add android 
 
 gulp watch 
